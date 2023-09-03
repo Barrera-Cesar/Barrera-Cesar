@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Barrera-Cesar
-- 👀 I’m interested in .Temas de Administración..
+- 👀 I’m interested in .**"Difusion y Divulgacion Cientifica"**..
 - 🌱 I’m currently learning ..la plataforma de Github.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
