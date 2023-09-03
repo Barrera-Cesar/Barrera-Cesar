@@ -8,3 +8,10 @@
 Barrera-Cesar/Barrera-Cesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Aprendiendo que las licencias Creative commons permiten
+1.Descargar contenidos para su uso
+1. Copiarlo
+1. Disctribuirlo
+2. Venderlo
+3. Usarlo
+4. Modificarlo
